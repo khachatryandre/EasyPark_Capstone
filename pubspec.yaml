@@ -1,0 +1,38 @@
+name: capstone_project
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.16.0 <3.0.0'
+
+dependencies:
+  country_code_picker: ^3.0.0
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_time_picker_spinner: ^2.0.0
+  flutter_credit_card: ^3.0.6
+  google_sign_in: ^6.1.2
+  firebase_core: ^2.13.0
+  firebase_auth: ^4.6.1
+  cloud_firestore: ^4.7.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.9.2
+
+flutter_icons:
+  image_path: "assets/icon.png"
+  android: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/user-logo.jpg
+    - assets/logo-transparent.png
+    - assets/mastercard.png
+    - assets/card_bg.png
+    - assets/bg.png

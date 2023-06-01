@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "500239611373",
+    "firebase_url": "https://parking-app-capstone-default-rtdb.firebaseio.com",
+    "project_id": "parking-app-capstone",
+    "storage_bucket": "parking-app-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500239611373:android:7f7e14e4b3c037a64e23e4",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500239611373-3tu38o6cj97km67dp3oh84uvbegsud5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstone",
+            "certificate_hash": "2d66a5122e250c7e91d67c17b2fcf3c6b3cf1db2"
+          }
+        },
+        {
+          "client_id": "500239611373-2hh2s8nnf40taqfq30ih22nu1rcb7bb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Pb0fjo_p7A3I6qZzi7PzkWTeRZ3cTOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500239611373-2hh2s8nnf40taqfq30ih22nu1rcb7bb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "500239611373-53ed4pbd6rvgrt41hplrvgpq1k7krva3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aua.parkingspace"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500239611373:android:7c8367d0699fcc984e23e4",
+        "android_client_info": {
+          "package_name": "com.example.capstone_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500239611373-qpive1cru7l6ikpbbevf8ub76ffsm7cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstone_project",
+            "certificate_hash": "2d66a5122e250c7e91d67c17b2fcf3c6b3cf1db2"
+          }
+        },
+        {
+          "client_id": "500239611373-2hh2s8nnf40taqfq30ih22nu1rcb7bb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Pb0fjo_p7A3I6qZzi7PzkWTeRZ3cTOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500239611373-2hh2s8nnf40taqfq30ih22nu1rcb7bb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "500239611373-53ed4pbd6rvgrt41hplrvgpq1k7krva3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aua.parkingspace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
